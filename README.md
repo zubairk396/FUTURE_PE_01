@@ -1,0 +1,1 @@
+This repository showcases my first task as a Prompt Engineering Intern: creating an avatar on Synthesia. It includes the initial prompts, iterations, and final outputs, demonstrating my learning and application of prompt engineering to develop engaging and realistic AI-generated avatars.
